@@ -21,9 +21,8 @@ This database models key areas of a retail operation, including:
 ## 🧱 Database Structure
 
 Here’s a high-level view of how the tables relate:
-Customers ─┬─ Orders ─┬─ OrderDetails ─┬─ Products ─┬─ Suppliers
-│ │ │ │
-│ └── Payments └── Inventory
+Customers, Orders, OrderDetails, Products, Suppliers,
+Payments, Inventory
 
 Each table includes realistic fields such as timestamps, foreign key constraints, default values, and appropriate data types.
 
