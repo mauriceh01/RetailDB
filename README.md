@@ -28,7 +28,7 @@ Each table includes realistic fields such as timestamps, foreign key constraints
 
 ## 📂 Files
 
-- `schema.sql` – All `CREATE TABLE` statements and foreign key definitions.
+- `Retail.sql` – All `CREATE TABLE` statements and foreign key definitions.
 - `data.sql` – Insert statements with sample data (customers, suppliers, products, orders, and inventory events).
 - `queries.sql` – A JOIN query that provides a detailed view of retail operations, combining data across multiple tables.
 
